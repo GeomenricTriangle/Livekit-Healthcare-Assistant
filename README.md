@@ -1,1 +1,0 @@
-# Livekit-Healthcare-Assistant
