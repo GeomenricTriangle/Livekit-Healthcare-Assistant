@@ -1,7 +1,5 @@
 
 
-Looking for the JS/TS library? Check out [AgentsJS](https://github.com/livekit/agents-js)
-
 ## ✨ 1.0 release ✨
 
 This README reflects the 1.0 release. For documentation on the previous 0.x release, see the [0.x branch](https://github.com/livekit/agents/tree/0.x)
